@@ -20,16 +20,6 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 
 </div>
 
-***
-
-<br/>
-<h3 align="center">📈 Stats</h3>
-
-<img height="550em" width="100%" align="center" src="https://github-readme-stats-seven-nu-20.vercel.app/api/top-langs/?username=lsandoval9&layout=donut-vertical&theme=material-palenight&count_private=true&exclude_repo=proyecto-cache&langs_count=10&hide=c++,c,cpp,cmake,html,shell,scss,css,vim%20script,vim%20snippet"/><br/><br/>
-
-
-  <br/>
-  <br/>
   
   ***
   <br/>
@@ -72,6 +62,9 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <div align="center">
   <a href="https://spring.io/why-spring" target="_blank">
 <img align="center" alt="Spring boot" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  </a>
+  <a href="https://www.odoo.com/es/page/about-us" target="_blank">
+<img align="center" alt="Odoo" width="15%" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png">
   </a>
 <a href="https://angular.io/" target="_blank" >
 <img align="center" width="15%" alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -116,5 +109,24 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <br/>
   <br/>
 </div>
+
+***
+
+<br/>
+<br/>
+
+<h4 align="center">Clouds</h4>
+  <br/>
+<div align="center">
+    <a href="https://aws.amazon.com/what-is-aws/">
+      <img align="center" width="15%" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    </a>
+    <a href="https://www.digitalocean.com/">
+      <img align="center" alt="git" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  </a>
+  <br/>
+  <br/>
+</div>
+
 </div>
 
