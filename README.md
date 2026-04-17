@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋</h1>
+<img style="inline" align="center" alt="Javascript" width="100%" src="images/banner.png">
 
 <p>
   My name is Luis Sandoval. I am a software developer with experience in <b>Web</b> <img style="width: 1em;" src="images/web.png"> and <b>DevOps</b> <img style="width: 1em;" src="images/infinity.png">. I am passionate about technology and I am always looking to learn new things.
@@ -12,11 +12,11 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <h3>📫 Contact me</h2>
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lsandoval9/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagstoval/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lsandoval9_dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lagstoval_dev@outlook.com)
 &nbsp;
-[![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/lsandoval9)
+[![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/lagstoval)
 
 </div>
 
