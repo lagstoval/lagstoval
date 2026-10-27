@@ -9,12 +9,12 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <br>
 <div align="center">
 
-<h3>📫 Contact me</h2>
+<h2>📫 Contact me</h2>
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lagstoval/)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lagstoval_dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lagstoval@gmail.com)
 &nbsp;
 [![Gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)](https://gitlab.com/lagstoval)
 
@@ -36,10 +36,6 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <a href="https://www.typescriptlang.org/" target="_blank">
   <img align="center" alt="Typescript" width="15%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
-  <a href="https://www.oracle.com/java/">
-  <img style="width: 15%" align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  </a>
-  
   <a href="https://opensource.com/resources/what-bash">
     <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash"/>
   </a>
@@ -50,6 +46,9 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <a href="https://go.dev/solutions/case-studies">
     <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go"/>
   </a>
+  <a href="https://rust-lang.org/">
+    <img width="15%" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust"/>
+  </a>
 </div>
 <br/>
 <br/>
@@ -57,12 +56,9 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 ***
 <br/>
 <br/>
-<h4 align="center">Frameworks / libraries</h4>
+<h4 align="center">Frameworks / libraries / Runtimes</h4>
 <br/>
 <div align="center">
-  <a href="https://spring.io/why-spring" target="_blank">
-<img align="center" alt="Spring boot" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-  </a>
   <a href="https://www.odoo.com/es/page/about-us" target="_blank">
 <img align="center" alt="Odoo" width="15%" src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo.png">
   </a>
@@ -71,8 +67,10 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   </a>
   <a href="https://getbootstrap.com/">
     <img align="center" width="15%" alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
  </a>
+  <a href="https://nodejs.org/en/about">
+    <img align="center" width="15%" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg" />
+  </a>
 </div>
 <br/>
 <br/>
@@ -81,12 +79,28 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 
 <br/>
 <br/>
-<h4 align="center"> Databases and tools </h4>
+<h4 align="center">Databases</h4>
+<div align="center">
+<a href="https://www.postgresql.org/about/">
+      <img align="center" width="15%" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+    </a>
+    <a href="https://www.sqlite.org/about.html">
+      <img align="center" width="15%" alt="sqlite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg"/>
+    </a>
+    <a href="https://redis.io/why-redis/">
+      <img align="center" width="15%" alt="redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"/>
+    </a>
+</div>
+ <br/>
+<br/>
+
+***
+
+<br/>
+<br/>
+<h4 align="center">tools</h4>
   <br/>
 <div align="center">
-    <a href="https://www.postgresql.org/about/">
-      <img align="center" width="15%" alt="postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-    </a>
     <a href="https://git-scm.com/">
       <img align="center" alt="git" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
   </a>
@@ -99,12 +113,8 @@ Feel free to contact me if you have any questions or if you want to collaborate 
   <a href="https://kubernetes.io/es/">
     <img align="center" width="15%" alt="kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   </a>
-  <a href="https://ubuntu.com/">
-    <img align="center" width="15%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  </a>
-  </a>
-  <a href="https://nginx.org/en/">
-    <img align="center" width="15%" alt="nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+  <a href="https://claude.com/product/overview">
+    <img align="center" width="15%" alt="claude" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
   </a>
   <br/>
   <br/>
@@ -115,14 +125,24 @@ Feel free to contact me if you have any questions or if you want to collaborate 
 <br/>
 <br/>
 
-<h4 align="center">Clouds</h4>
+<h4 align="center">Cloud</h4>
   <br/>
 <div align="center">
     <a href="https://aws.amazon.com/what-is-aws/">
-      <img align="center" width="15%" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+      <img align="center" width="15%" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
     </a>
     <a href="https://www.digitalocean.com/">
-      <img align="center" alt="git" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" />
+      <img align="center" alt="digitalocean" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original-wordmark.svg" />
+  </a>
+  <a href="https://docs.github.com/en/actions/get-started/understand-github-actions">
+      <img align="center" alt="github actions" width="15%" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original-wordmark.svg" />
+  </a>
+  <a href="https://nginx.org/en/">
+    <img align="center" width="15%" alt="nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" />
+  </a>
+
+  <a href="https://ubuntu.com/">
+    <img align="center" width="15%" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   </a>
   <br/>
   <br/>
